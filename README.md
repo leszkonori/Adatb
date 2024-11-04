@@ -1,0 +1,2 @@
+# Adatb
+Adatbázisok tárgy laborfeladatai
